@@ -65,6 +65,10 @@ This workflow exemplifies the essential skills needed in Data Analysis, enabling
 
 ## Summary of Key Results
 
+Working Sheet
+
+![Working Sheet - Olympics Dataset](assets/WorkingSheet_OlympicsDataset.png)
+
 Athlete vs. Team Participation Count
 
 ![Pivot Table - Athlete vs. Team Participation Count](assets/PivotTable_CountType_AthleteVsTeam.png)
