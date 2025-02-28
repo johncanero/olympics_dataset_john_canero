@@ -26,6 +26,7 @@ Badge [source](https://shields.io/)
 This project focuses on key steps in the Data Analysis process: Cleaning, Transforming, Analyzing, and Visualizing data, using the Olympics Datasets from Tokyo 2020 and Beijing 2022.
 
 The goal is to demonstrate how to work with real-world datasets by:
+
 • Cleaning the data: removing duplicates and handling inconsistencies.
 
 • Transforming the data: identifying and replacing specific terminologies to standardize the dataset.
