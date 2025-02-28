@@ -21,7 +21,10 @@ Badge [source](https://shields.io/)
   - [Methods](#methods) 
   - [Tech Stack](#tech-stack)
   - [Summary of Key Results](#summary-of-key-results)
-  
+  - [Lessons Learned and Recommendation](#lessons-learned-and-recommendation)
+  - [Limitation and What Can Be Improved](#limitation-and-what-can-be-improved)
+  - [Run Locally](#run-locally)
+
 ## Business Problem
 This project focuses on key steps in the Data Analysis process: Cleaning, Transforming, Analyzing, and Visualizing data, using the Olympics Datasets from Tokyo 2020 and Beijing 2022.
 
@@ -75,3 +78,41 @@ Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter
 Stacked Chart Medal Count by Country (Gold, Silver, Bronze)
 
 ![Pivot Table - Stacked Chart Medal Count by Country (Gold, Silver, Bronze)](assets/PivotTable_StackedChartMedalCount_Country.png)
+
+## Lessons Learned and Recommendation
+
+- This project marked my first experience in visualizing and effectively communicating insights from a dataset by following key steps: Cleaning, Transforming, Analyzing, and Visualizing the data. I gained valuable skills in classifying data by discipline and using pivot tables to calculate counts and percentages. The process of transforming raw data into meaningful insights was a rewarding experience, helping me better understand the story behind the data and the importance of clear analysis.
+
+- The recommended approach is to follow a structured method: clean the data by removing duplicates, transform it by standardizing terminologies, analyze it using pivot tables with slicers for better grouping, and finally, visualize the results with charts to simplify data interpretation. This step-by-step process makes understanding the dataset much easier.
+
+
+## Limitation and What Can Be Improved
+
+- Visualization: While Excel is a useful tool for data visualization, I believe there is potential for more polished and interactive visualizations by integrating specialized software such as Power BI or Tableau. I have yet to learn these platforms, but they could significantly enhance the visual appeal and interactivity of the data presentations. Exploring these tools would be a valuable next step for improving future analyses.
+
+## Run Locally
+Initialize git
+
+```bash
+git init
+```
+
+
+Clone the project
+
+```bash
+git clone https://github.com/johncanero/olympics_dataset_john_canero.git
+```
+
+enter the project directory
+
+```bash
+cd olympics_dataset_john_canero
+```
+
+Open in Visual Studio Code
+
+```bash
+code .
+```
+
