@@ -25,7 +25,7 @@ Badge <a href="https://shields.io/" target="_blank">source</a>
   - [Limitation and What Can Be Improved](#limitation-and-what-can-be-improved)
   - [Run Locally](#run-locally)
   - [Repository Structure](#repository-structure)
-- [Contribution](#contribution)
+  - [Contribution](#contribution)
   - [License](#license)
 
 ## Business Problem
