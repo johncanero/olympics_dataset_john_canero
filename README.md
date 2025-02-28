@@ -1,4 +1,4 @@
-![banner](assets/01_Olympics_Dataset.png)
+![banner](assets/Banner_Olympics_Dataset.png)
 Banner [source](https://graphicsprings.com/blog/view/olympic-logo/)
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -59,3 +59,19 @@ This workflow exemplifies the essential skills needed in Data Analysis, enabling
 
 
 ## Summary of Key Results
+
+Athlete vs. Team Participation Count
+
+![Pivot Table - Athlete vs. Team Participation Count](assets/PivotTable_CountType_AthleteVsTeam.png)
+
+Discipline Distribution with Count and Percentage
+
+![Pivot Table - Discipline Distribution with Count and Percentage](assets/PivotTable_DisciplineDistributionCount_Percentage.png)
+
+Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter
+
+![Pivot Table - Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter](assets/PivotTable_OlympicMedalCountByCountry_GameFilter.png)
+
+Stacked Chart Medal Count by Country (Gold, Silver, Bronze)
+
+![Pivot Table - Stacked Chart Medal Count by Country (Gold, Silver, Bronze)](assets/PivotTable_StackedChartMedalCount_Country.png)
