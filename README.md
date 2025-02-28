@@ -53,6 +53,7 @@ This workflow exemplifies the essential skills needed in Data Analysis, enabling
     - Data Cleaning (Remove Duplicates)
     - Formulas & Functions
     - Pivot Tables
+    - Filter
     - Charting & Data Visualization
 
 
