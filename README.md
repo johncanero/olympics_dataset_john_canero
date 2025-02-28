@@ -17,7 +17,8 @@ Badge [source](https://shields.io/)
   <!-- - [Reference](#reference) -->
   - [Table of Contents](#table-of-contents)
   - [Business Problem](#business-problem)
-- [Data source](#data-source)
+  - [Data source](#data-source)
+  - [Methods](#methods)
   
 ## Business Problem
 This project focuses on key steps in the Data Analysis process: Cleaning, Transforming, Analyzing, and Visualizing data, using the Olympics Datasets from Tokyo 2020 and Beijing 2022.
@@ -36,3 +37,10 @@ This workflow exemplifies the essential skills needed in Data Analysis, enabling
 ## Data Source
 
 - Learn 80% of Data Analysis in Excel in Just 12 Minutes ( https://www.youtube.com/watch?v=O1QfG5SXRkM)
+
+## Methods
+
+- Data Cleaning
+- Data Transformation
+- Pivot Table Analysis
+- Data Visualization 
