@@ -13,8 +13,7 @@ Badge <a href="https://shields.io/" target="_blank">source</a>
 
 ## Table of Contents
 
-  - [Olympics Dataset (Beijing 2022 and Tokyo 2020): Type, Discpline, Medal Count, Slicer](#olympics-dataset-(beijing-2022-and-tokyo-2020):-type-discpline-medal-count-slicer)
-  <!-- - [Reference](#reference) -->
+  - [Olympics Dataset (Beijing 2022 and Tokyo 2020): Type, Discipline, Medal Count, Slicer](#key-findings-olympics-dataset-beijing-2022-and-tokyo-2020-type-discpline-medal-count-slicer)
   - [Table of Contents](#table-of-contents)
   - [Business Problem](#business-problem)
   - [Data source](#data-source)
