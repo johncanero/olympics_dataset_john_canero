@@ -1,9 +1,9 @@
-![banner](assets/Banner_Olympics_Dataset.png)
-Banner [source](https://graphicsprings.com/blog/view/olympic-logo/)
+![banner](assets/Banner_Olympics_Dataset.png)  
+Banner <a href="https://graphicsprings.com/blog/view/olympic-logo/" target="_blank">source</a>
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Badge [source](https://shields.io/)
+Badge <a href="https://shields.io/" target="_blank">source</a>
 
 # Key findings: Olympics Dataset (Beijing 2022 and Tokyo 2020): Type, Discpline, Medal Count, Slicer
 
@@ -25,7 +25,7 @@ Badge [source](https://shields.io/)
   - [Limitation and What Can Be Improved](#limitation-and-what-can-be-improved)
   - [Run Locally](#run-locally)
   - [Repository Structure](#repository-structure)
-  - [Contribution](#contribution)
+- [Contribution](#contribution)
   - [License](#license)
 
 ## Business Problem
