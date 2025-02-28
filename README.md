@@ -116,3 +116,22 @@ Open in Visual Studio Code
 code .
 ```
 
+## Repository structure
+
+
+```
+├── assets
+│   ├── Banner_Olympics_Dataset.png       
+│   ├── PivotTable_CountType_AthleteVsTeam.png         
+│   ├──PivotTable_DisciplineDistributionCount_Percentage.png              
+│   ├── PivotTable_OlympicMedalCountByCountry_GameFilter.png  
+│   ├── PivotTable_StackedChartMedalCount_Country.png          
+│
+|
+├── 01_olympics_dataset_john_canero.xlsx
+│ 
+│
+├── README.md                     
+│
+│
+```
