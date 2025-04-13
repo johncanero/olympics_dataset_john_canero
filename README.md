@@ -65,6 +65,10 @@ This workflow exemplifies the essential skills needed in Data Analysis, enabling
 
 ## Summary of Key Results
 
+Dashboard
+
+![Dashboard - Olympics Dataset](assets/Dashboard_OlympicDataset.png)
+
 Working Sheet
 
 ![Working Sheet - Olympics Dataset](assets/WorkingSheet_OlympicsDataset.png)
