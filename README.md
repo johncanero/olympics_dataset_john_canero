@@ -65,29 +65,25 @@ This workflow exemplifies the essential skills needed in Data Analysis, enabling
 
 ## Summary of Key Results
 
-Dashboard
-
-![Dashboard - Olympics Dataset](assets/Dashboard_OlympicDataset.png)
-
-Working Sheet
-
-![Working Sheet - Olympics Dataset](assets/WorkingSheet_OlympicsDataset.png)
-
-Athlete vs. Team Participation Count
-
-![Pivot Table - Athlete vs. Team Participation Count](assets/PivotTable_CountType_AthleteVsTeam.png)
-
-Discipline Distribution with Count and Percentage
-
-![Pivot Table - Discipline Distribution with Count and Percentage](assets/PivotTable_DisciplineDistributionCount_Percentage.png)
-
-Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter
-
-![Pivot Table - Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter](assets/PivotTable_OlympicMedalCountByCountry_GameFilter.png)
-
-Stacked Chart Medal Count by Country (Gold, Silver, Bronze)
-
-![Pivot Table - Stacked Chart Medal Count by Country (Gold, Silver, Bronze)](assets/PivotTable_StackedChartMedalCount_Country.png)
+<div align="center">
+  <h4>Dashboard</h4>
+  <img src="assets/Dashboard_OlympicDataset.png" alt="Dashboard - Olympics Dataset">
+  
+  <h4>Working Sheet</h4>
+  <img src="assets/WorkingSheet_OlympicsDataset.png" alt="Working Sheet - Olympics Dataset">
+  
+  <h4>Athlete vs. Team Participation Count</h4>
+  <img src="assets/PivotTable_CountType_AthleteVsTeam.png" alt="Pivot Table - Athlete vs. Team Participation Count">
+  
+  <h4>Discipline Distribution with Count and Percentage</h4>
+  <img src="assets/PivotTable_DisciplineDistributionCount_Percentage.png" alt="Pivot Table - Discipline Distribution with Count and Percentage">
+  
+  <h4>Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter</h4>
+  <img src="assets/PivotTable_OlympicMedalCountByCountry_GameFilter.png" alt="Pivot Table - Olympic Medal Count by Country (Beijing 2022 & Tokyo 2020) with Game Filter">
+  
+  <h4>Stacked Chart Medal Count by Country (Gold, Silver, Bronze)</h4>
+  <img src="assets/PivotTable_StackedChartMedalCount_Country.png" alt="Pivot Table - Stacked Chart Medal Count by Country (Gold, Silver, Bronze)">
+</div>
 
 ## Lessons Learned and Recommendation
 
